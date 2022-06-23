@@ -4,13 +4,9 @@
 |---------|------------|
 | Total Components | 18 |
 | License | private |
-| Last commit | May 29 2022|
+| Last commit | June 7 2022|
 
 [Official website](https://www.code050.nl)
-
-[Components](https://www.code050.nl)
-
-[How to use](https://www.code050.nl)
 
 **The code050 UI kit works by calling onto the blade components inside Laravel. I tried my best to make these components as extensive as possible by making use of ability to fill them with props.**
 
@@ -26,7 +22,7 @@
 
 ### Documents and examples
 ---
-> See the official site: [code050-ui.com->](https://www.documentatie.nl/)
+> See the official site: [Code050 UI Kit](https://62b4312086ac7f6a92b47045--boisterous-sherbet-d591a5.netlify.app/#/)
 ---
 ### List of components
 
