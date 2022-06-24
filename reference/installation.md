@@ -9,7 +9,7 @@ The simplest and fastest way to get up and running with the Code050 UI kit is by
 !> Currently not as a package available! Clone the repo into your project.
 
 ```git
-git clone https://github.com/nymph44/code050-components.git
+git clone https://github.com/code050/code050-components.git .
 ```
 
 
