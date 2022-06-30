@@ -10,7 +10,7 @@ Buttons allows user to take actions or make choices.
 > To use the buttons inside a Laravel Blade project we add it as following. Inside the tag we pass text as prop to be displayed inside the button.
 
 ```blade
-<x-ui.buttons.medium.primary">
+<x-ui.buttons.medium.primary>
 
     Text to display
 
